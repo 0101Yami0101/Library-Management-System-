@@ -39,13 +39,13 @@ if __name__ == "__main__":
     MainLib = Library(["Python","Django","MatLab","C++","Java"])
 
     #Display method 
-    # MainLib.DisplayAvailableBooks()
+    # MainLib.DisplayAvailableBooks()  #Try
 
     #BorrowBook method
-    # MainLib.BorrowBook("Django")
+    # MainLib.BorrowBook("Django")  #Try
 
     #Return Book method
-    # MainLib.ReturnBook("C")
+    # MainLib.ReturnBook("C")  #Try
 
     Stu1 = Student()
     
